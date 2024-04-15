@@ -1,0 +1,6 @@
+{
+	"train_name":"Bharat Train",
+	"place":"ooty to chennai",
+	"time": 5,
+	"travel_place":["ooty","madurai","pondicherry","chennai"]
+}
